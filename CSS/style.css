@@ -344,8 +344,9 @@ body.dark .search-field i{
 }
 
 
+
 footer{
-    margin-top: 10cm;
+    margin-top: 20cm;
     text-align: center;
     color: var(--paragraph-color);
 }
