@@ -346,7 +346,15 @@ body.dark .search-field i{
 
 
 footer{
-    margin-top: 20cm;
+    margin-top: 15cm;
+    margin-bottom: 1cm;
     text-align: center;
     color: var(--paragraph-color);
+}
+.footer-button{
+    text-decoration: none;
+    color : var(--text-color);
+}
+.footer-button:hover{
+    text-decoration: underline;
 }
